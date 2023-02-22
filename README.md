@@ -1,1 +1,1 @@
-# excerise_for_nithya
+# exercise_for_nithya
